@@ -1,2 +1,2 @@
-# Capstone2Project
-Contains files and documents for my Capstone 2 Project.
+# Education and Unemployment in America
+Growing up in the US, we are told that getting properly educated will lead to landing a job. This project explores the relationship between education levels and unemployment status in all counties of the US.  
